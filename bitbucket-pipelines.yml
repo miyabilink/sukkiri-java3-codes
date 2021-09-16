@@ -8,6 +8,7 @@ pipelines:
              - git remote add sync git@github.com:miyabilink/sukkiri-java3-codes.git
              - git checkout main
              - git pull
+             - git rm --cached bitbucket-pipelines.yml
              - git merge origin/main
              - git filter-branch -f --env-filter "GIT_AUTHOR_NAME='Takuma SUGAWARA'; GIT_AUTHOR_EMAIL='sugawara@miyabilink.jp'; GIT_COMMITTER_NAME='Takuma SUGAWARA'; GIT_COMMITTER_EMAIL='sugawara@miyabilink.jp';" --tag-name-filter cat -- --all
              - git push -f sync main
