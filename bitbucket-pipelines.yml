@@ -6,7 +6,6 @@ pipelines:
         - step:
            script:
              - git remote add sync git@github.com:miyabilink/sukkiri-java3-codes.git
-             - git rm bitbucket-pipelines.yml
              - git checkout main
              - git pull
              - git merge origin/main
