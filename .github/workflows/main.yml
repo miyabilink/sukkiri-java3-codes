@@ -23,7 +23,7 @@ jobs:
 
       # Create Zip file
       - name: create a zip file
-        run: zip -r release.zip . -x "*.yml" "index.json"
+        run: zip -r release.zip chap*/
       # Create a release
       - name: Create release
         id: create_release
