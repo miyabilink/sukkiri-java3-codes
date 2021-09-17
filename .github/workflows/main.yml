@@ -23,7 +23,7 @@ jobs:
 
       # Create Zip file
       - name: create a zip file
-        run: cd output ;
+        run: mkdir outpur ; cd output ;
           zip -r release.zip . -x "*.yml" "index.json"
       # Create a release
       - name: Create release
