@@ -15,7 +15,7 @@ jobs:
       - name: create a zip file
         run: ls &&
           zip release.zip chap* &&
-          tar ztvf release.zip
+          unzip -t release.zip
       - name: Create release
         id: create_release
         uses: actions/create-release@v1.0.0
