@@ -21,7 +21,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Create zip　file
+      # Create zip file
       - name: create a zip file
         run: cd output
           zip release chap00/ chap01/
