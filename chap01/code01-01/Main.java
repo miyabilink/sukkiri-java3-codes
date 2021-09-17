@@ -5,4 +5,4 @@ public class Main {
     System.out.println("＜ただいま鋭意学習・制作中＞");
     System.out.println("プログラムを終了します");
   }
-}
+}
