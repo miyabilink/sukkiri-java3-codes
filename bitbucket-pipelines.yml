@@ -1,6 +1,5 @@
 image: atlassian/default-image:2
 
-# tagのpushも
 pipelines:
     branches:
       main:
