@@ -1,0 +1,3 @@
+Copyright(C) flairLink corporation All rights reserved.
+当ソースコードは、「Creative Commonsライセンス BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/deed.ja）」で使用許諾されるものです。
+詳細については、https://sukkiri.jp/books/sukkiri_java3を参照ください。
