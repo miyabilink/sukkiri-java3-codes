@@ -1,3 +1,6 @@
 Copyright(C) flairLink corporation All rights reserved.
-当ソースコードは、「Creative Commonsライセンス BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/deed.ja）」で使用許諾されるものです。
-詳細については、https://sukkiri.jp/books/sukkiri_java3を参照ください。
+このソフトウェアの著作権は株式会社フレアリンクに帰属し、利用者にはCreative Commons BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.ja)及び当補足事項に従いその使用が許諾されるものです。両者が競合する場合、当特約事項が優先するものとします。
+このソフトウェアは、書籍購入者サポートの一環として、書籍売上の一部を原資に提供・利用許諾されるものです。書籍（電子版を含み、旧版や中古品を含みません）をご購入戴いた方のみご利用いただけます。
+このソフトウェアは、AS-IS・非保証で提供されるものです。株式会社フレアリンク・著者・出版社はその内容について、いかなる理由においても保証・修繕する義務を負いません。
+編集その他の理由により、当ソフトウェアは書籍掲載のものと一部異なることがあります。また、書籍掲載の全てのコードを収録しているわけではありません。
+
