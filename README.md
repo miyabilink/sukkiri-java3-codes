@@ -1,4 +1,4 @@
-# スッキリわかるJava入門 第3版　書籍掲載コード
+# スッキリわかるJava入門 第3版  書籍掲載コード
 
 Java入門書籍『[スッキリわかるJava入門 第3版](https://sukkiri.jp/books/sukkiri_java3)』（インプレス, 2019）の誌面掲載プログラムリスト集です。[LICENSE.txt](https://github.com/miyabilink/sukkiri-java3-codes/raw/main/LICENSE.txt) の条件に基づきご利用ください。  
 
