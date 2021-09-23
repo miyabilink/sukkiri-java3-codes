@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: create a Zip file
+      - name: create a zip file
         run: ls &&
           zip -r release.zip chap* LICENSE.txt README.md &&
           unzip -t release.zip
