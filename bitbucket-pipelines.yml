@@ -7,7 +7,7 @@ pipelines:
            script:
              - git remote add sync git@github.com:miyabilink/sukkiri-java3-codes.git
              - git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
-             - git fetch origin --prune 'refs/tags/*:refs/tags/*'
+             - git fetch origin 
              - git checkout main
              - git pull
              - git merge origin/main
