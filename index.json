@@ -2439,7 +2439,7 @@
       },
       {
         "id": "code16-04",
-        "label_header": "コード16-3",
+        "label_header": "コード16-4",
         "label": "Setから要素を取り出すと…",
         "sourceFiles": [ "Main.java" ],
         "isCompileError": false,
