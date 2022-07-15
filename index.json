@@ -2078,7 +2078,7 @@
         "id": "code14-03",
         "label_header": "コード14-3",
         "label": "どんなインスタンスでも受け取れるメソッド",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [ "Printer.java" ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
