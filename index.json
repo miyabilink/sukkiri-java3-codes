@@ -7,7 +7,9 @@
         "id": "code00-01",
         "label_header": "コード0-1",
         "label": "HelloWorldプログラム",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -16,7 +18,9 @@
         "id": "code00-02",
         "label_header": "コード0-2",
         "label": "一部を書き換えたプログラム",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -25,7 +29,9 @@
         "id": "code00-03",
         "label_header": "コード0-3",
         "label": "湊くんが作ったプログラム（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -34,7 +40,9 @@
         "id": "code00-04",
         "label_header": "コード0-4",
         "label": "複数の文章を表示する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -43,7 +51,9 @@
         "id": "code00-05",
         "label_header": "コード0-5",
         "label": "計算をする",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -52,7 +62,9 @@
         "id": "code00-06",
         "label_header": "コード0-6",
         "label": "変数を使ってみる",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -67,7 +79,9 @@
         "id": "code01-01",
         "label_header": "コード1-1",
         "label": "ソースコードの基本構造",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -76,7 +90,9 @@
         "id": "code01-02",
         "label_header": "コード1-2",
         "label": "変数宣言の文",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -85,7 +101,9 @@
         "id": "code01-03",
         "label_header": "コード1-3",
         "label": "変数の再代入",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -94,7 +112,9 @@
         "id": "code01-04",
         "label_header": "コード1-4",
         "label": "書き換えてはいけない変数の値を上書きしてしまう",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -103,7 +123,9 @@
         "id": "code01-05",
         "label_header": "コード1-5",
         "label": "円周率に定数を利用する（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -112,7 +134,9 @@
         "id": "quizans01-02",
         "label_header": "",
         "label": "練習1-2の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -127,7 +151,9 @@
         "id": "code02-01",
         "label_header": "コード2-1",
         "label": "変数宣言の文と計算の文",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -136,7 +162,9 @@
         "id": "code02-02",
         "label_header": "コード2-2",
         "label": "エスケープシーケンスを用いていない例（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -145,7 +173,9 @@
         "id": "code02-03",
         "label_header": "コード2-3",
         "label": "エスケープシーケンスを用いた例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -154,7 +184,9 @@
         "id": "code02-04",
         "label_header": "コード2-4",
         "label": "インクリメント演算子",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -163,7 +195,9 @@
         "id": "code02-05",
         "label_header": "コード2-5",
         "label": "値より大きな型の変数に代入",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -172,7 +206,9 @@
         "id": "code02-06",
         "label_header": "コード2-6",
         "label": "データより小さな型の変数に代入（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -181,7 +217,9 @@
         "id": "code02-07",
         "label_header": "コード2-7",
         "label": "強制的な型変換",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -190,7 +228,9 @@
         "id": "code02-08",
         "label_header": "コード2-8",
         "label": "異なる型同士の算術演算",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -199,7 +239,9 @@
         "id": "code02-09",
         "label_header": "コード2-9",
         "label": "文字列の連結",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -208,7 +250,9 @@
         "id": "code02-10",
         "label_header": "コード2-10",
         "label": "命令実行の文（画面に表示する）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -217,7 +261,9 @@
         "id": "code02-11",
         "label_header": "コード2-11",
         "label": "改行なし画面出力の命令",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -226,7 +272,9 @@
         "id": "code02-12",
         "label_header": "コード2-12",
         "label": "大きいほうの数値を代入する命令",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -235,7 +283,9 @@
         "id": "code02-13",
         "label_header": "コード2-13",
         "label": "String型をint型に変換する命令",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -244,7 +294,9 @@
         "id": "code02-14",
         "label_header": "コード2-14",
         "label": "ランダムな数を生成する命令",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -253,7 +305,9 @@
         "id": "code02-15",
         "label_header": "コード2-15",
         "label": "キーボードから入力を受け付ける命令",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -262,7 +316,9 @@
         "id": "quiz02-01",
         "label_header": "",
         "label": "練習2-1",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -271,7 +327,9 @@
         "id": "quizans02-03",
         "label_header": "",
         "label": "練習2-3の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -286,7 +344,9 @@
         "id": "code03-01",
         "label_header": "コード3-1",
         "label": "天気による行動の変化をJavaで表したもの",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -295,7 +355,9 @@
         "id": "code03-02",
         "label_header": "コード3-2",
         "label": "トイレの空きを待つ繰り返し処理",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -304,7 +366,9 @@
         "id": "code03-03",
         "label_header": "コード3-3",
         "label": "波カッコを省略した記述",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -313,7 +377,9 @@
         "id": "code03-04",
         "label_header": "コード3-4",
         "label": "冗長でスッキリしないソースコード",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -322,7 +388,9 @@
         "id": "code03-05",
         "label_header": "コード3-5",
         "label": "break文を忘れると…",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -331,7 +399,9 @@
         "id": "code03-06",
         "label_header": "コード3-6",
         "label": "あえてbreak文を書かない",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -340,7 +410,9 @@
         "id": "code03-07",
         "label_header": "コード3-7",
         "label": "基本的なfor文",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -349,7 +421,9 @@
         "id": "code03-08",
         "label_header": "コード3-8",
         "label": "for文のループ変数iの内容を表示する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -358,7 +432,9 @@
         "id": "code03-09",
         "label_header": "コード3-9",
         "label": "for文のループを2重にして九九の表を出力する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -367,7 +443,9 @@
         "id": "quiz03-04",
         "label_header": "",
         "label": "練習3-4",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -376,7 +454,9 @@
         "id": "quizans03-03",
         "label_header": "",
         "label": "練習3-3の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -385,7 +465,9 @@
         "id": "quizans03-05",
         "label_header": "",
         "label": "練習3-5の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -394,7 +476,9 @@
         "id": "quizans03-06",
         "label_header": "",
         "label": "練習3-6の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -409,7 +493,9 @@
         "id": "code04-01",
         "label_header": "コード4-1",
         "label": "点数管理プログラム",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -418,7 +504,9 @@
         "id": "code04-02",
         "label_header": "コード4-2",
         "label": "配列の作成手順",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -427,7 +515,9 @@
         "id": "code04-03",
         "label_header": "コード4-3",
         "label": "配列の作成手順（Step1とStep2を同時に行う）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -436,7 +526,9 @@
         "id": "code04-04",
         "label_header": "コード4-4",
         "label": "配列の長さを調べる",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -445,7 +537,9 @@
         "id": "code04-05",
         "label_header": "コード4-5",
         "label": "配列の要素に値を代入",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -454,7 +548,9 @@
         "id": "code04-06",
         "label_header": "コード4-6",
         "label": "初期化されていない変数を利用（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -463,7 +559,9 @@
         "id": "code04-07",
         "label_header": "コード4-7",
         "label": "配列は自動的に初期化される",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -472,7 +570,9 @@
         "id": "code04-08",
         "label_header": "コード4-8",
         "label": "配列を用いた点数管理プログラム（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -481,7 +581,9 @@
         "id": "code04-09",
         "label_header": "コード4-9",
         "label": "for文を使って配列を扱う",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -490,7 +592,9 @@
         "id": "code04-10",
         "label_header": "コード4-10",
         "label": "点数管理プログラム（for文の利用）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -499,7 +603,9 @@
         "id": "code04-11",
         "label_header": "コード4-11",
         "label": "50点以上の科目の数を調べる",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -508,7 +614,9 @@
         "id": "code04-12",
         "label_header": "コード4-12",
         "label": "DNAの記号をランダムに表示する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -517,7 +625,9 @@
         "id": "code04-13",
         "label_header": "コード4-13",
         "label": "従来のfor文",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -526,7 +636,9 @@
         "id": "code04-14",
         "label_header": "コード4-14",
         "label": "拡張for文",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -535,7 +647,9 @@
         "id": "code04-15",
         "label_header": "コード4-15",
         "label": "実行結果は？",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -544,7 +658,9 @@
         "id": "code04-16",
         "label_header": "コード4-16",
         "label": "ガベージコレクション",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -553,7 +669,9 @@
         "id": "code04-17",
         "label_header": "コード4-17",
         "label": "nullの利用（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -562,7 +680,9 @@
         "id": "code04-18",
         "label_header": "コード4-18",
         "label": "2次元配列の利用",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -571,7 +691,9 @@
         "id": "code04-19",
         "label_header": "コード4-19",
         "label": "親配列と子配列の要素数を表示",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -580,7 +702,9 @@
         "id": "quiz04-03",
         "label_header": "",
         "label": "練習4-3",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -589,7 +713,9 @@
         "id": "quizans04-01",
         "label_header": "",
         "label": "練習4-1の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -598,7 +724,9 @@
         "id": "quizans04-02",
         "label_header": "",
         "label": "練習4-2の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -607,7 +735,9 @@
         "id": "quizans04-04",
         "label_header": "",
         "label": "練習4-4の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -622,7 +752,9 @@
         "id": "code05-01",
         "label_header": "コード5-1",
         "label": "シンプルなメソッドの定義",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -631,7 +763,9 @@
         "id": "code05-02",
         "label_header": "コード5-2",
         "label": "メソッドの呼び出し",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -640,7 +774,9 @@
         "id": "code05-03",
         "label_header": "コード5-3",
         "label": "mainメソッド以外からメソッドを呼び出す",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -649,7 +785,9 @@
         "id": "code05-04",
         "label_header": "コード5-4",
         "label": "引数の例（渡す値が1つの場合）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -658,7 +796,9 @@
         "id": "code05-05",
         "label_header": "コード5-5",
         "label": "引数の例（渡す値が複数の場合）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -667,7 +807,9 @@
         "id": "code05-06",
         "label_header": "コード5-6",
         "label": "引数を使わずに値を渡せないのか？（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -676,7 +818,9 @@
         "id": "code05-07",
         "label_header": "コード5-7",
         "label": "戻り値の例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -685,7 +829,9 @@
         "id": "code05-08",
         "label_header": "コード5-8",
         "label": "戻り値をそのまま使う",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -694,7 +840,9 @@
         "id": "code05-09",
         "label_header": "コード5-9",
         "label": "return文の後に処理は書けない（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -703,7 +851,9 @@
         "id": "code05-10",
         "label_header": "コード5-10",
         "label": "オーバーロード（引数の型が異なる場合）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -712,7 +862,9 @@
         "id": "code05-11",
         "label_header": "コード5-11",
         "label": "オーバーロード（引数の数が異なる場合）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -721,7 +873,9 @@
         "id": "code05-12",
         "label_header": "コード5-12",
         "label": "引数に配列を受け取るメソッドの利用",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -730,7 +884,9 @@
         "id": "code05-13",
         "label_header": "コード5-13",
         "label": "同じ配列を参照していることを確認する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -739,7 +895,9 @@
         "id": "code05-14",
         "label_header": "コード5-14",
         "label": "戻り値が配列の場合",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -748,7 +906,9 @@
         "id": "quizans05-01",
         "label_header": "",
         "label": "練習5-1の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -757,7 +917,9 @@
         "id": "quizans05-02",
         "label_header": "",
         "label": "練習5-2の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -766,7 +928,9 @@
         "id": "quizans05-03",
         "label_header": "",
         "label": "練習5-3の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -775,7 +939,9 @@
         "id": "quizans05-04",
         "label_header": "",
         "label": "練習5-4の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -790,7 +956,9 @@
         "id": "code06-01",
         "label_header": "コード6-1",
         "label": "計算機プログラム",
-        "sourceFiles": [ "Calc.java" ],
+        "sourceFiles": [
+          "Calc.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -799,7 +967,9 @@
         "id": "code06-02",
         "label_header": "コード6-2",
         "label": "Calc.javaに計算処理を追加する",
-        "sourceFiles": [ "CalcLogic.java" ],
+        "sourceFiles": [
+          "CalcLogic.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -808,7 +978,9 @@
         "id": "code06-03",
         "label_header": "コード6-3",
         "label": "mainメソッドだけが残されたCalc.java",
-        "sourceFiles": [ "Calc.java" ],
+        "sourceFiles": [
+          "Calc.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -817,8 +989,10 @@
         "id": "code06-04",
         "label_header": "コード6-4",
         "label": "正しく修正したCalc.java",
-        "sourceFiles": [ "Calc.java",
-                         "CalcLogic.java" ],
+        "sourceFiles": [
+          "Calc.java",
+          "CalcLogic.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -827,7 +1001,9 @@
         "id": "code06-05",
         "label_header": "コード6-5",
         "label": "Calcクラスをcalcapp.mainに所属させる",
-        "sourceFiles": [ "Calc.java" ],
+        "sourceFiles": [
+          "Calc.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -836,7 +1012,9 @@
         "id": "code06-06",
         "label_header": "コード6-6",
         "label": "CalcLogicをcalcapp.logicsに所属させる",
-        "sourceFiles": [ "CalcLogic.java" ],
+        "sourceFiles": [
+          "CalcLogic.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -845,8 +1023,10 @@
         "id": "code06-07",
         "label_header": "コード6-7",
         "label": "別のパッケージにあるクラスを呼び出す",
-        "sourceFiles": [ "Calc.java",
-                         "CalcLogic.java" ],
+        "sourceFiles": [
+          "Calc.java",
+          "CalcLogic.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはパッケージを利用しているため、dokojavaでは正しく実行できません"
@@ -855,8 +1035,10 @@
         "id": "code06-08",
         "label_header": "コード6-8",
         "label": "calcapp.logics.CalcLogicをインポートする",
-        "sourceFiles": [ "Calc.java",
-                         "CalcLogic.java" ],
+        "sourceFiles": [
+          "Calc.java",
+          "CalcLogic.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはパッケージを利用しているため、dokojavaでは正しく実行できません"
@@ -865,8 +1047,10 @@
         "id": "code06-09",
         "label_header": "コード6-9",
         "label": "calcapp.logicsの全クラスをインポートする",
-        "sourceFiles": [ "Calc.java",
-                         "CalcLogic.java" ],
+        "sourceFiles": [
+          "Calc.java",
+          "CalcLogic.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはパッケージを利用しているため、dokojavaでは正しく実行できません"
@@ -875,7 +1059,9 @@
         "id": "code06-10",
         "label_header": "コード6-10",
         "label": "APIの利用",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -884,7 +1070,9 @@
         "id": "quiz06-01",
         "label_header": "",
         "label": "練習6-1",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -893,9 +1081,11 @@
         "id": "quizans06-01",
         "label_header": "",
         "label": "練習6-1の解答",
-        "sourceFiles": [ "Main.java",
-                         "Zenhan.java",
-                         "Kouhan.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Zenhan.java",
+          "Kouhan.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -904,9 +1094,11 @@
         "id": "quizans06-03",
         "label_header": "",
         "label": "練習6-3の解答",
-        "sourceFiles": [ "Kouhan.java",
-                         "Main.java",
-                         "Zenhan.java" ],
+        "sourceFiles": [
+          "Kouhan.java",
+          "Main.java",
+          "Zenhan.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -921,7 +1113,9 @@
         "id": "code08-01",
         "label_header": "コード8-1",
         "label": "mainメソッドを作る",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -930,7 +1124,9 @@
         "id": "code08-02",
         "label_header": "コード8-2",
         "label": "HeroクラスをJavaのコードで表したもの",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -939,7 +1135,9 @@
         "id": "code08-03",
         "label_header": "コード8-3",
         "label": "中身のない空のHeroクラスを作成",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -948,7 +1146,9 @@
         "id": "code08-04",
         "label_header": "コード8-4",
         "label": "Heroクラスに名前とHPを変数として宣言",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -957,7 +1157,9 @@
         "id": "code08-05",
         "label_header": "コード8-5",
         "label": "フィールドを宣言すると同時に初期値も設定",
-        "sourceFiles": [ "Matango.java" ],
+        "sourceFiles": [
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -966,7 +1168,9 @@
         "id": "code08-06",
         "label_header": "コード8-6",
         "label": "フィールドを定数として宣言",
-        "sourceFiles": [ "Matango.java" ],
+        "sourceFiles": [
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -975,7 +1179,9 @@
         "id": "code08-07",
         "label_header": "コード8-7",
         "label": "「眠る」操作に含まれる要素を記述",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -984,7 +1190,9 @@
         "id": "code08-08",
         "label_header": "コード8-8",
         "label": "メソッド「座る」「転ぶ」「逃げる」を追加",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -993,8 +1201,10 @@
         "id": "code08-09",
         "label_header": "コード8-9",
         "label": "Hero型の変数を宣言",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1003,7 +1213,9 @@
         "id": "code08-10",
         "label_header": "コード8-10",
         "label": "「神様のクラス」を作る",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1012,8 +1224,10 @@
         "id": "code08-11",
         "label_header": "コード8-11",
         "label": "勇者インスタンスを生成",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1022,8 +1236,10 @@
         "id": "code08-12",
         "label_header": "コード8-12",
         "label": "勇者インスタンスを生成して初期値を代入",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1032,8 +1248,10 @@
         "id": "code08-13",
         "label_header": "コード8-13",
         "label": "仮想世界に勇者を生み出すプログラム",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1042,7 +1260,9 @@
         "id": "code08-14",
         "label_header": "コード8-14",
         "label": "オブジェクト指向でない方法で作ったプログラム",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1051,7 +1271,9 @@
         "id": "code08-15",
         "label_header": "コード8-15",
         "label": "お化けキノコクラスの定義",
-        "sourceFiles": [ "Matango.java" ],
+        "sourceFiles": [
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1060,9 +1282,11 @@
         "id": "code08-16",
         "label_header": "コード8-16",
         "label": "仮想世界に勇者とお化けキノコ2匹を生み出す",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1071,7 +1295,9 @@
         "id": "quizans08-01",
         "label_header": "",
         "label": "練習8-1の解答",
-        "sourceFiles": [ "Cleric.java" ],
+        "sourceFiles": [
+          "Cleric.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1080,7 +1306,9 @@
         "id": "quizans08-02",
         "label_header": "",
         "label": "練習8-2の解答",
-        "sourceFiles": [ "Cleric.java" ],
+        "sourceFiles": [
+          "Cleric.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1089,7 +1317,9 @@
         "id": "quizans08-03",
         "label_header": "",
         "label": "練習8-3の解答",
-        "sourceFiles": [ "Cleric.java" ],
+        "sourceFiles": [
+          "Cleric.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1098,7 +1328,9 @@
         "id": "quizans08-04",
         "label_header": "",
         "label": "練習8-4の解答",
-        "sourceFiles": [ "Cleric.java" ],
+        "sourceFiles": [
+          "Cleric.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1113,8 +1345,10 @@
         "id": "code09-01",
         "label_header": "コード9-1",
         "label": "Heroクラスをインスタンス化し利用する",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1123,8 +1357,10 @@
         "id": "code09-02",
         "label_header": "コード9-2",
         "label": "2つのHero型変数を利用する",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1133,8 +1369,10 @@
         "id": "code09-03",
         "label_header": "コード9-3",
         "label": "Sword型フィールドを持つHeroクラス",
-        "sourceFiles": [ "Sword.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Sword.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1143,9 +1381,11 @@
         "id": "code09-04",
         "label_header": "コード9-4",
         "label": "剣を装備した勇者を生み出す",
-        "sourceFiles": [ "Main.java",
-                         "Sword.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Sword.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1154,9 +1394,11 @@
         "id": "code09-05",
         "label_header": "コード9-5",
         "label": "回復魔法を使えるWizardクラス",
-        "sourceFiles": [ "Wizard.java",
-                         "Sword.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Wizard.java",
+          "Sword.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1165,10 +1407,12 @@
         "id": "code09-06",
         "label_header": "コード9-6",
         "label": "勇者と魔法使いを生み出す",
-        "sourceFiles": [ "Main.java",
-                         "Wizard.java",
-                         "Sword.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Wizard.java",
+          "Sword.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1177,7 +1421,9 @@
         "id": "code09-07",
         "label_header": "コード9-07",
         "label": "newを使って文字列のインスタンスを生成（非推奨）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1186,8 +1432,10 @@
         "id": "code09-08",
         "label_header": "コード9-8",
         "label": "生まれた直後の動作を定義したHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1196,9 +1444,11 @@
         "id": "code09-09",
         "label_header": "コード9-9",
         "label": "コンストラクタが定義されたHeroを生み出す",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1207,8 +1457,10 @@
         "id": "code09-10",
         "label_header": "コード9-10",
         "label": "コンストラクタで引数を追加情報として受け取る",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1217,9 +1469,11 @@
         "id": "code09-11",
         "label_header": "コード9-11",
         "label": "newで引数を渡す",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1228,8 +1482,10 @@
         "id": "code09-12",
         "label_header": "コード9-12",
         "label": "コンストラクタのオーバーロード",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1238,9 +1494,11 @@
         "id": "code09-13",
         "label_header": "コード9-13",
         "label": "コンストラクタをオーバーロードしたクラスの利用",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1249,7 +1507,9 @@
         "id": "code09-14",
         "label_header": "コード9-14",
         "label": "コンストラクタの定義が必須なら…",
-        "sourceFiles": [ "Map.java" ],
+        "sourceFiles": [
+          "Map.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1258,8 +1518,10 @@
         "id": "code09-15",
         "label_header": "コード9-15",
         "label": "別のコンストラクタを呼び出す（エラー）",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -1268,8 +1530,10 @@
         "id": "code09-16",
         "label_header": "コード9-16",
         "label": "別のコンストラクタを呼び出す",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1278,7 +1542,9 @@
         "id": "quiz09-01",
         "label_header": "",
         "label": "練習9-1",
-        "sourceFiles": [ "Thief.java" ],
+        "sourceFiles": [
+          "Thief.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1287,8 +1553,10 @@
         "id": "quiz09-02",
         "label_header": "",
         "label": "練習9-2",
-        "sourceFiles": [ "Main.java",
-                         "Thief.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Thief.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1297,7 +1565,9 @@
         "id": "quizans09-01",
         "label_header": "",
         "label": "練習9-1の解答",
-        "sourceFiles": [ "Thief.java" ],
+        "sourceFiles": [
+          "Thief.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1312,8 +1582,10 @@
         "id": "code10-01",
         "label_header": "コード10-1",
         "label": "「戦う」と「逃げる」しかできないHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1322,8 +1594,10 @@
         "id": "code10-02",
         "label_header": "コード10-2",
         "label": "朝香さんが作成したSuperHeroクラス",
-        "sourceFiles": [ "SuperHero.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "SuperHero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1332,9 +1606,11 @@
         "id": "code10-03",
         "label_header": "コード10-3",
         "label": "Heroクラスを継承してSuperHeroを作成する",
-        "sourceFiles": [ "SuperHero.java",
-                         "Hero.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "SuperHero.java",
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1342,11 +1618,13 @@
       {
         "id": "code10-04",
         "label_header": "コード10-4",
-        "label": "SuperHeroを生み出してrun()を呼び出す",
-        "sourceFiles": [ "Main.java",
-                         "SuperHero.java",
-                         "Hero.java",
-                         "Matango.java" ],
+        "label": "SuperHeroを生み出してrun（）を呼び出す",
+        "sourceFiles": [
+          "Main.java",
+          "SuperHero.java",
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1354,10 +1632,12 @@
       {
         "id": "code10-05",
         "label_header": "コード10-5",
-        "label": "SuperHeroクラスにrun()を再定義する",
-        "sourceFiles": [ "SuperHero.java",
-                         "Hero.java",
-                         "Matango.java" ],
+        "label": "SuperHeroクラスにrun（）を再定義する",
+        "sourceFiles": [
+          "SuperHero.java",
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1365,11 +1645,13 @@
       {
         "id": "code10-06",
         "label_header": "コード10-6",
-        "label": "HeroとSuperHeroのrun()を呼び出す",
-        "sourceFiles": [ "Main.java",
-                         "SuperHero.java",
-                         "Hero.java",
-                         "Matango.java" ],
+        "label": "HeroとSuperHeroのrun（）を呼び出す",
+        "sourceFiles": [
+          "Main.java",
+          "SuperHero.java",
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1377,9 +1659,11 @@
       {
         "id": "code10-07",
         "label_header": "コード10-7",
-        "label": "slip()はオーバーライドできないHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Matango.java" ],
+        "label": "slip（）はオーバーライドできないHeroクラス",
+        "sourceFiles": [
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1387,10 +1671,12 @@
       {
         "id": "code10-08",
         "label_header": "コード10-8",
-        "label": "attack()をオーバーライドしたSuperHero",
-        "sourceFiles": [ "SuperHero.java",
-                         "Hero.java",
-                         "Matango.java" ],
+        "label": "attack（）をオーバーライドしたSuperHero",
+        "sourceFiles": [
+          "SuperHero.java",
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1398,10 +1684,12 @@
       {
         "id": "code10-09",
         "label_header": "コード10-9",
-        "label": "親クラスのattack()を呼び出す",
-        "sourceFiles": [ "SuperHero.java",
-                         "Hero.java",
-                         "Matango.java" ],
+        "label": "親クラスのattack（）を呼び出す",
+        "sourceFiles": [
+          "SuperHero.java",
+          "Hero.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1410,10 +1698,12 @@
         "id": "code10-10",
         "label_header": "コード10-10",
         "label": "コンストラクタの動作を確認する",
-        "sourceFiles": [ "Hero.java",
-                         "SuperHero.java",
-                         "Main.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "SuperHero.java",
+          "Main.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1422,9 +1712,11 @@
         "id": "code10-11",
         "label_header": "コード10-11",
         "label": "コンストラクタを呼び出せない状況（エラー）",
-        "sourceFiles": [ "Item.java",
-                         "Weapon.java",
-                         "Main.java" ],
+        "sourceFiles": [
+          "Item.java",
+          "Weapon.java",
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -1433,7 +1725,9 @@
         "id": "quiz10-03",
         "label_header": "",
         "label": "練習10-3",
-        "sourceFiles": [ "Matango.java" ],
+        "sourceFiles": [
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1442,8 +1736,10 @@
         "id": "quizans10-03",
         "label_header": "",
         "label": "練習10-3の解答",
-        "sourceFiles": [ "PoisonMatango.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "PoisonMatango.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1458,8 +1754,10 @@
         "id": "code11-01",
         "label_header": "コード11-1",
         "label": "Characterクラスを作成（未完成）",
-        "sourceFiles": [ "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -1467,9 +1765,11 @@
       {
         "id": "code11-02",
         "label_header": "コード11-2",
-        "label": "attack()メソッドの中身を空にしておく",
-        "sourceFiles": [ "Character.java",
-                         "Matango.java" ],
+        "label": "attack（）メソッドの中身を空にしておく",
+        "sourceFiles": [
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1478,9 +1778,11 @@
         "id": "code11-03",
         "label_header": "コード11-3",
         "label": "未来の開発者が作成するHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1489,10 +1791,12 @@
         "id": "code11-04",
         "label_header": "コード11-4",
         "label": "オーバーライドを忘れたHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Main.java",
-                         "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Main.java",
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1501,10 +1805,12 @@
         "id": "code11-05",
         "label_header": "コード11-5",
         "label": "オーバーライドしたつもりのHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Main.java",
-                         "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Main.java",
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1513,9 +1819,11 @@
         "id": "code11-06",
         "label_header": "コード11-6",
         "label": "継承の材料をnewして利用されてしまう",
-        "sourceFiles": [ "Main.java",
-                         "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1523,9 +1831,11 @@
       {
         "id": "code11-07",
         "label_header": "コード11-7",
-        "label": "attack()を抽象メソッドとして宣言する",
-        "sourceFiles": [ "Character.java",
-                         "Matango.java" ],
+        "label": "attack（）を抽象メソッドとして宣言する",
+        "sourceFiles": [
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -1534,8 +1844,10 @@
         "id": "code11-08",
         "label_header": "コード11-8",
         "label": "Characterを抽象クラスとして宣言する",
-        "sourceFiles": [ "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1544,9 +1856,11 @@
         "id": "code11-09",
         "label_header": "コード11-9",
         "label": "抽象メソッドのオーバーライド忘れ（エラー）",
-        "sourceFiles": [ "Dancer.java",
-                         "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Dancer.java",
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -1555,9 +1869,11 @@
         "id": "code11-10",
         "label_header": "コード11-10",
         "label": "抽象メソッドを正しくオーバーライド",
-        "sourceFiles": [ "Dancer.java",
-                         "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Dancer.java",
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1566,7 +1882,9 @@
         "id": "code11-11",
         "label_header": "コード11-11",
         "label": "抽象度の高いCreatureクラス",
-        "sourceFiles": [ "Creature.java" ],
+        "sourceFiles": [
+          "Creature.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1575,7 +1893,9 @@
         "id": "code11-12",
         "label_header": "コード11-12",
         "label": "インターフェースとして宣言したCreature",
-        "sourceFiles": [ "Creature.java" ],
+        "sourceFiles": [
+          "Creature.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1584,7 +1904,9 @@
         "id": "code11-13",
         "label_header": "コード11-13",
         "label": "一般的な書き方をしたインターフェース",
-        "sourceFiles": [ "Creature.java" ],
+        "sourceFiles": [
+          "Creature.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1593,10 +1915,12 @@
         "id": "code11-14",
         "label_header": "コード11-14",
         "label": "CleaningServiceインターフェース",
-        "sourceFiles": [ "CleaningService.java",
-                         "Shirt.java",
-                         "Towl.java",
-                         "Coat.java" ],
+        "sourceFiles": [
+          "CleaningService.java",
+          "Shirt.java",
+          "Towl.java",
+          "Coat.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1605,11 +1929,13 @@
         "id": "code11-15",
         "label_header": "コード11-15",
         "label": "インタフェースを継承したクラスの定義",
-        "sourceFiles": [ "KyotoCleaningShop.java",
-                         "CleaningService.java",
-                         "Shirt.java",
-                         "Towl.java",
-                         "Coat.java" ],
+        "sourceFiles": [
+          "KyotoCleaningShop.java",
+          "CleaningService.java",
+          "Shirt.java",
+          "Towl.java",
+          "Coat.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1618,8 +1944,10 @@
         "id": "code11-16",
         "label_header": "コード11-16",
         "label": "インターフェースを継承する",
-        "sourceFiles": [ "Human.java",
-                         "Creature.java" ],
+        "sourceFiles": [
+          "Human.java",
+          "Creature.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1628,11 +1956,13 @@
         "id": "code11-17",
         "label_header": "コード11-17",
         "label": "継承と実装を同時に行う",
-        "sourceFiles": [ "Fool.java",
-                         "Character.java",
-                         "Human.java",
-                         "Creature.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Fool.java",
+          "Character.java",
+          "Human.java",
+          "Creature.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1641,8 +1971,10 @@
         "id": "quiz11-01",
         "label_header": "",
         "label": "練習11-1",
-        "sourceFiles": [ "Book.java",
-                         "Computer.java" ],
+        "sourceFiles": [
+          "Book.java",
+          "Computer.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1651,9 +1983,11 @@
         "id": "quizans11-01",
         "label_header": "",
         "label": "練習11-1の解答",
-        "sourceFiles": [ "TangibleAsset.java",
-                         "Book.java",
-                         "Computer.java" ],
+        "sourceFiles": [
+          "TangibleAsset.java",
+          "Book.java",
+          "Computer.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1662,8 +1996,10 @@
         "id": "quizans11-02",
         "label_header": "",
         "label": "練習11-2の解答",
-        "sourceFiles": [ "Asset.java",
-                         "TangibleAsset.java" ],
+        "sourceFiles": [
+          "Asset.java",
+          "TangibleAsset.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1672,7 +2008,9 @@
         "id": "quizans11-03",
         "label_header": "",
         "label": "練習11-3の解答",
-        "sourceFiles": [ "Thing.java" ],
+        "sourceFiles": [
+          "Thing.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1681,9 +2019,11 @@
         "id": "quizans11-04",
         "label_header": "",
         "label": "練習11-4の解答",
-        "sourceFiles": [ "TangibleAsset.java",
-                         "Asset.java",
-                         "Thing.java" ],
+        "sourceFiles": [
+          "TangibleAsset.java",
+          "Asset.java",
+          "Thing.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1698,11 +2038,13 @@
         "id": "code12-01",
         "label_header": "コード12-1",
         "label": "Life型の箱にWizardインスタンスを入れる",
-        "sourceFiles": [ "Life.java",
-                         "Main.java",
-                         "Wizard.java",
-                         "Character.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Life.java",
+          "Main.java",
+          "Wizard.java",
+          "Character.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1711,9 +2053,11 @@
         "id": "code12-02",
         "label_header": "コード12-2",
         "label": "Characterを継承して定義されたWizard",
-        "sourceFiles": [ "Character.java",
-                         "Wizard.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Character.java",
+          "Wizard.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1722,10 +2066,12 @@
         "id": "code12-03",
         "label_header": "コード12-3",
         "label": "Wizardクラスを通常の方法でインスタンス化",
-        "sourceFiles": [ "Main.java",
-                         "Character.java",
-                         "Wizard.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Character.java",
+          "Wizard.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1734,10 +2080,12 @@
         "id": "code12-04",
         "label_header": "コード12-4",
         "label": "Wizardにfireballを使わせる（エラー）",
-        "sourceFiles": [ "Main.java",
-                         "Character.java",
-                         "Wizard.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Character.java",
+          "Wizard.java",
+          "Matango.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -1746,9 +2094,11 @@
         "id": "code12-05",
         "label_header": "コード12-5",
         "label": "MonsterとSlimeの逃げ方を調べる",
-        "sourceFiles": [ "Monster.java",
-                         "Slime.java",
-                         "Main.java" ],
+        "sourceFiles": [
+          "Monster.java",
+          "Slime.java",
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1757,12 +2107,14 @@
         "id": "code12-06",
         "label_header": "コード12-6",
         "label": "パーティが宿屋に泊まってHPを回復する",
-        "sourceFiles": [ "Main.java",
-                         "Character.java",
-                         "Hero.java",
-                         "Wizard.java",
-                         "Thief.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Character.java",
+          "Hero.java",
+          "Wizard.java",
+          "Thief.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1771,12 +2123,14 @@
         "id": "code12-07",
         "label_header": "コード12-7",
         "label": "多態性と配列を組み合わせて宿屋に泊まる",
-        "sourceFiles": [ "Main.java",
-                         "Character.java",
-                         "Hero.java",
-                         "Wizard.java",
-                         "Thief.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Character.java",
+          "Hero.java",
+          "Wizard.java",
+          "Thief.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1784,11 +2138,13 @@
       {
         "id": "code12-08",
         "label_header": "コード12-8",
-        "label": "攻撃する相手ごとにattack()を作成",
-        "sourceFiles": [ "Hero.java",
-                         "Character.java",
-                         "Matango.java",
-                         "Goblin.java" ],
+        "label": "攻撃する相手ごとにattack（）を作成",
+        "sourceFiles": [
+          "Hero.java",
+          "Character.java",
+          "Matango.java",
+          "Goblin.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1797,9 +2153,11 @@
         "id": "code12-09",
         "label_header": "コード12-9",
         "label": "Monsterなら何でも攻撃できるattackメソッド",
-        "sourceFiles": [ "Hero.java",
-                         "Character.java",
-                         "Monster.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Character.java",
+          "Monster.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1808,11 +2166,13 @@
         "id": "code12-10",
         "label_header": "コード12-10",
         "label": "同じ指示で異なる動作をさせることができる",
-        "sourceFiles": [ "Main.java",
-                         "Monster.java",
-                         "Slime.java",
-                         "Goblin.java",
-                         "DeathBat.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Monster.java",
+          "Slime.java",
+          "Goblin.java",
+          "DeathBat.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1821,10 +2181,12 @@
         "id": "quiz12-02",
         "label_header": "",
         "label": "練習12-2",
-        "sourceFiles": [ "A.java",
-                         "B.java",
-                         "X.java",
-                         "Y.java" ],
+        "sourceFiles": [
+          "A.java",
+          "B.java",
+          "X.java",
+          "Y.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1833,11 +2195,13 @@
         "id": "quizans12-03",
         "label_header": "",
         "label": "練習12-3の解答",
-        "sourceFiles": [ "Main.java",
-                         "A.java",
-                         "B.java",
-                         "X.java",
-                         "Y.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "A.java",
+          "B.java",
+          "X.java",
+          "Y.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -1852,9 +2216,11 @@
         "id": "code13-01",
         "label_header": "コード13-1",
         "label": "アクセス制御されていないHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1863,10 +2229,12 @@
         "id": "code13-02",
         "label_header": "コード13-2",
         "label": "「宿屋クラス」の不具合",
-        "sourceFiles": [ "Inn.java",
-                         "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Inn.java",
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1875,10 +2243,12 @@
         "id": "code13-03",
         "label_header": "コード13-3",
         "label": "「王様クラス」の不具合",
-        "sourceFiles": [ "King.java",
-                         "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "King.java",
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1887,9 +2257,11 @@
         "id": "code13-04",
         "label_header": "コード13-4",
         "label": "hpフィールドをprivateにしたHeroクラス",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1898,9 +2270,11 @@
         "id": "code13-05",
         "label_header": "コード13-5",
         "label": "dieメソッドをprivateとして指定する",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1909,9 +2283,11 @@
         "id": "code13-06",
         "label_header": "コード13-6",
         "label": "attackメソッドはpublicとして指定する",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1920,10 +2296,12 @@
         "id": "code13-07",
         "label_header": "コード13-7",
         "label": "王様クラスで利用されるnameフィールド",
-        "sourceFiles": [ "King.java",
-                         "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "King.java",
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -1932,9 +2310,11 @@
         "id": "code13-08",
         "label_header": "コード13-8",
         "label": "HeroクラスにgetNameメソッドを追加",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1942,11 +2322,13 @@
       {
         "id": "code13-09",
         "label_header": "コード13-9",
-        "label": "talk()でgetName()を呼び出す",
-        "sourceFiles": [ "King.java",
-                         "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "label": "talk（）でgetName（）を呼び出す",
+        "sourceFiles": [
+          "King.java",
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1955,9 +2337,11 @@
         "id": "code13-10",
         "label_header": "コード13-10",
         "label": "Heroクラスにsetterメソッドを追加",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1966,7 +2350,9 @@
         "id": "code13-11",
         "label_header": "コード13-11",
         "label": "カプセル化を行う前",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1975,7 +2361,9 @@
         "id": "code13-12",
         "label_header": "コード13-12",
         "label": "カプセル化を行った後",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1984,9 +2372,11 @@
         "id": "code13-13",
         "label_header": "コード13-13",
         "label": "setterメソッドの中で値の妥当性をチェックする",
-        "sourceFiles": [ "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -1995,10 +2385,12 @@
         "id": "code13-14",
         "label_header": "コード13-14",
         "label": "setNameが正しく機能するかを確認する",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java",
-                         "Sword.java",
-                         "Matango.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java",
+          "Sword.java",
+          "Matango.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2007,9 +2399,11 @@
         "id": "quiz13-01",
         "label_header": "",
         "label": "練習13-1",
-        "sourceFiles": [ "Wand.java",
-                         "Wizard.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Wand.java",
+          "Wizard.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2018,9 +2412,11 @@
         "id": "quizans13-01",
         "label_header": "",
         "label": "練習13-1の解答",
-        "sourceFiles": [ "Wand.java",
-                         "Wizard.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Wand.java",
+          "Wizard.java",
+          "Hero.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -2029,9 +2425,11 @@
         "id": "quizans13-03",
         "label_header": "",
         "label": "練習13-3の解答",
-        "sourceFiles": [ "Wand.java",
-                         "Wizard.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Wand.java",
+          "Wizard.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2040,9 +2438,11 @@
         "id": "quizans13-04",
         "label_header": "",
         "label": "練習13-4の解答",
-        "sourceFiles": [ "Wand.java",
-                         "Wizard.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Wand.java",
+          "Wizard.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2056,9 +2456,11 @@
       {
         "id": "code14-01",
         "label_header": "コード14-1",
-        "label": "何も定義していないクラスでtoString()を呼ぶ",
-        "sourceFiles": [ "Empty.java",
-                         "Main.java" ],
+        "label": "何も定義していないクラスでtoString（）を呼ぶ",
+        "sourceFiles": [
+          "Empty.java",
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2067,9 +2469,11 @@
         "id": "code14-02",
         "label_header": "コード14-2",
         "label": "Object型にさまざまなインスタンスを代入",
-        "sourceFiles": [ "Main.java",
-                         "Empty.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Empty.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2078,7 +2482,9 @@
         "id": "code14-03",
         "label_header": "コード14-3",
         "label": "どんなインスタンスでも受け取れるメソッド",
-        "sourceFiles": [ "Printer.java" ],
+        "sourceFiles": [
+          "Printer.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2087,8 +2493,10 @@
         "id": "code14-04",
         "label_header": "コード14-4",
         "label": "Heroクラスの文字情報を表示する",
-        "sourceFiles": [ "Hero.java",
-                         "Main.java" ],
+        "sourceFiles": [
+          "Hero.java",
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2096,9 +2504,11 @@
       {
         "id": "code14-05",
         "label_header": "コード14-5",
-        "label": "意図する文字列表現を返すtoString()を定義",
-        "sourceFiles": [ "Hero.java",
-                         "Main.java" ],
+        "label": "意図する文字列表現を返すtoString（）を定義",
+        "sourceFiles": [
+          "Hero.java",
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2107,8 +2517,10 @@
         "id": "code14-06",
         "label_header": "コード14-6",
         "label": "2人の勇者を比較する",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2116,9 +2528,11 @@
       {
         "id": "code14-07",
         "label_header": "コード14-7",
-        "label": "名前が同じなら同じ勇者とするequals()を定義",
-        "sourceFiles": [ "Hero.java",
-                         "Main.java" ],
+        "label": "名前が同じなら同じ勇者とするequals（）を定義",
+        "sourceFiles": [
+          "Hero.java",
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2127,7 +2541,9 @@
         "id": "code14-08",
         "label_header": "コード14-8",
         "label": "各インスタンスのフィールドは独立している",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2136,7 +2552,9 @@
         "id": "code14-09",
         "label_header": "コード14-9",
         "label": "staticによるフィールドの共有",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2145,8 +2563,10 @@
         "id": "code14-10",
         "label_header": "コード14-10",
         "label": "静的フィールドmoneyへのアクセス",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2155,8 +2575,10 @@
         "id": "code14-11",
         "label_header": "コード14-11",
         "label": "各インスタンスから静的フィールドを利用可能",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2165,8 +2587,10 @@
         "id": "code14-12",
         "label_header": "コード14-12",
         "label": "newせずとも静的フィールドは利用可能",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2175,7 +2599,9 @@
         "id": "code14-13",
         "label_header": "コード14-13",
         "label": "所持金をランダムに設定する",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2184,8 +2610,10 @@
         "id": "code14-14",
         "label_header": "コード14-14",
         "label": "newせずとも静的メソッドは呼び出し可能",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2194,7 +2622,9 @@
         "id": "code14-15",
         "label_header": "コード14-15",
         "label": "静的メソッドから非静的メンバを利用（エラー）",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -2203,7 +2633,9 @@
         "id": "quizans14-01",
         "label_header": "",
         "label": "練習14-1の解答",
-        "sourceFiles": [ "Account.java" ],
+        "sourceFiles": [
+          "Account.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2218,7 +2650,9 @@
         "id": "code15-01",
         "label_header": "コード15-1",
         "label": "文字列調査メソッドを利用した例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2227,7 +2661,9 @@
         "id": "code15-02",
         "label_header": "コード15-2",
         "label": "文字列検索メソッドを利用した例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2236,7 +2672,9 @@
         "id": "code15-03",
         "label_header": "コード15-3",
         "label": "文字列切り出しメソッドを利用した例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2245,7 +2683,9 @@
         "id": "code15-04",
         "label_header": "コード15-4",
         "label": "StringBuilderを利用し文字列を1万回連結する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2254,7 +2694,9 @@
         "id": "code15-05",
         "label_header": "コード15-5",
         "label": "正当なプレイヤー名であるかを判定するメソッド",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2263,7 +2705,9 @@
         "id": "code15-06",
         "label_header": "コード15-6",
         "label": "文字列パターンを用いたプレイヤー名のチェック",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2272,7 +2716,9 @@
         "id": "code15-07",
         "label_header": "コード15-7",
         "label": "splitメソッドを使った文字列の分割",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2281,7 +2727,9 @@
         "id": "code15-08",
         "label_header": "コード15-8",
         "label": "replaceAllメソッドを使った文字列の置換",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2290,8 +2738,10 @@
         "id": "code15-09",
         "label_header": "コード15-9",
         "label": "桁を揃えてキャラクターを表示する",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2300,7 +2750,9 @@
         "id": "code15-10",
         "label_header": "コード15-10",
         "label": "処理時間を計測する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2309,7 +2761,9 @@
         "id": "code15-11",
         "label_header": "コード15-11",
         "label": "現在日時を表示する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2318,7 +2772,9 @@
         "id": "code15-12",
         "label_header": "コード15-12",
         "label": "6つのint値とDate型の相互変換",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2327,7 +2783,9 @@
         "id": "code15-13",
         "label_header": "コード15-13",
         "label": "String型とDate型の相互変換",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2336,7 +2794,9 @@
         "id": "code15-14",
         "label_header": "コード15-14",
         "label": "InstantおよびZonedDateTimeの利用例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2345,7 +2805,9 @@
         "id": "code15-15",
         "label_header": "コード15-15",
         "label": "LocalDateTimeの利用例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2354,7 +2816,9 @@
         "id": "code15-16",
         "label_header": "コード15-16",
         "label": "各種日時クラスのメソッド利用例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2363,7 +2827,9 @@
         "id": "code15-17",
         "label_header": "コード15-17",
         "label": "Periodクラスの利用例",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2372,7 +2838,9 @@
         "id": "quizans15-01",
         "label_header": "",
         "label": "練習15-1の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2381,7 +2849,9 @@
         "id": "quizans15-02",
         "label_header": "",
         "label": "練習15-2の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2390,7 +2860,9 @@
         "id": "quizans15-04",
         "label_header": "",
         "label": "練習15-4の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2399,7 +2871,9 @@
         "id": "quizans15-05",
         "label_header": "",
         "label": "練習15-5の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2414,7 +2888,9 @@
         "id": "code16-01",
         "label_header": "コード16-1",
         "label": "ラッパークラスをArrayListに格納する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2423,7 +2899,9 @@
         "id": "code16-02",
         "label_header": "コード16-2",
         "label": "イテレータを使ったArrayListの繰り返し処理",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2432,7 +2910,9 @@
         "id": "code16-03",
         "label_header": "コード16-3",
         "label": "Setに重複した値を追加しようとすると…",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2441,7 +2921,9 @@
         "id": "code16-04",
         "label_header": "コード16-4",
         "label": "Setから要素を取り出すと…",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2450,7 +2932,9 @@
         "id": "code16-05",
         "label_header": "コード16-5",
         "label": "TreeSetから文字列を取り出すと…",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2459,7 +2943,9 @@
         "id": "code16-06",
         "label_header": "コード16-6",
         "label": "HashMapクラスの利用",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2468,7 +2954,9 @@
         "id": "code16-07",
         "label_header": "コード16-7",
         "label": "マップに格納された情報を1つずつ取り出す",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2477,7 +2965,9 @@
         "id": "code16-08",
         "label_header": "コード16-8",
         "label": "リストに格納した勇者の名前を書き換えると…",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2486,7 +2976,9 @@
         "id": "quiz16-02",
         "label_header": "",
         "label": "練習16-2",
-        "sourceFiles": [ "Hero.java" ],
+        "sourceFiles": [
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2495,8 +2987,10 @@
         "id": "quizans16-02",
         "label_header": "",
         "label": "練習16-2の解答",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2505,8 +2999,10 @@
         "id": "quizans16-03",
         "label_header": "",
         "label": "練習16-3の解答",
-        "sourceFiles": [ "Main.java",
-                         "Hero.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "Hero.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2521,7 +3017,9 @@
         "id": "code17-01",
         "label_header": "コード17-1",
         "label": "例外処理を用意していないと…（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -2530,7 +3028,9 @@
         "id": "code17-02",
         "label_header": "コード17-2",
         "label": "try-catch文でException系例外の発生に備える",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはファイルアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2539,7 +3039,9 @@
         "id": "code17-03",
         "label_header": "コード17-3",
         "label": "ザックリと例外を捕捉する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはファイルアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2548,7 +3050,9 @@
         "id": "code17-04",
         "label_header": "コード17-4",
         "label": "try-catchの後でcloseすると…（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -2557,7 +3061,9 @@
         "id": "code17-05",
         "label_header": "コード17-5",
         "label": "finallyブロックでcloseすると…（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -2566,7 +3072,9 @@
         "id": "code17-06",
         "label_header": "コード17-6",
         "label": "変数fwのスコープを広げると…（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -2575,7 +3083,9 @@
         "id": "code17-07",
         "label_header": "コード17-7",
         "label": "tryブロック内でnewすると…（エラー）",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": null
@@ -2584,7 +3094,9 @@
         "id": "code17-08",
         "label_header": "コード17-8",
         "label": "後片付け処理もtry-catchする",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはファイルアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2593,7 +3105,9 @@
         "id": "code17-09",
         "label_header": "コード17-9",
         "label": "ファイルを開いたときだけ後片付けする",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはファイルアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2602,7 +3116,9 @@
         "id": "code17-10",
         "label_header": "コード17-10",
         "label": "try-with-resources文の利用",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはファイルアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2611,8 +3127,10 @@
         "id": "code17-11",
         "label_header": "コード17-11",
         "label": "例外インスタンスを自分で投げる",
-        "sourceFiles": [ "Person.java",
-                         "Main.java" ],
+        "sourceFiles": [
+          "Person.java",
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2621,7 +3139,9 @@
         "id": "code17-12",
         "label_header": "コード17-12",
         "label": "オリジナル例外を定義する",
-        "sourceFiles": [ "UnsupportedMusicFileException.java" ],
+        "sourceFiles": [
+          "UnsupportedMusicFileException.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2630,8 +3150,10 @@
         "id": "code17-13",
         "label_header": "コード17-13",
         "label": "オリジナル例外を利用する",
-        "sourceFiles": [ "Main.java",
-                         "UnsupportedMusicFileException.java" ],
+        "sourceFiles": [
+          "Main.java",
+          "UnsupportedMusicFileException.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2640,7 +3162,9 @@
         "id": "quizans17-01",
         "label_header": "",
         "label": "練習17-1の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2649,7 +3173,9 @@
         "id": "quizans17-02",
         "label_header": "",
         "label": "練習17-2の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2658,7 +3184,9 @@
         "id": "quizans17-03",
         "label_header": "",
         "label": "練習17-3の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -2667,7 +3195,9 @@
         "id": "quizans17-04",
         "label_header": "",
         "label": "練習17-4の解答",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
@@ -2682,7 +3212,9 @@
         "id": "code18-01",
         "label_header": "コード18-1",
         "label": "ファイルから1文字ずつ読み込む",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはファイルアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2691,7 +3223,9 @@
         "id": "code18-02",
         "label_header": "コード18-2",
         "label": "ファイルに1文字ずつ書き込む",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはファイルアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2700,7 +3234,9 @@
         "id": "code18-03",
         "label_header": "コード18-3",
         "label": "Webページを取得する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはWebへのアクセスを行うため、dokojavaでは正しく実行できません"
@@ -2709,7 +3245,9 @@
         "id": "code18-04",
         "label_header": "コード18-4",
         "label": "DBに接続してSQLを送信する",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはDB接続を行うため、dokojavaでは正しく実行できません"
@@ -2718,7 +3256,9 @@
         "id": "code18-05",
         "label_header": "コード18-5",
         "label": "はじめてのGUIプログラム",
-        "sourceFiles": [ "Main.java" ],
+        "sourceFiles": [
+          "Main.java"
+        ],
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはウィンドウ操作を行うため、dokojavaでは正しく実行できません"
@@ -2727,7 +3267,9 @@
         "id": "code18-06",
         "label_header": "コード18-6",
         "label": "現在日時を表示するサーブレット",
-        "sourceFiles": [ "HelloServlet.java" ],
+        "sourceFiles": [
+          "HelloServlet.java"
+        ],
         "isCompileError": true,
         "isRuntimeError": null,
         "loadMessage": "このコードはサーブレットの開発環境が必要なため、dokojavaでは正しく実行できません"
