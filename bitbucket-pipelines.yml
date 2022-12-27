@@ -12,7 +12,7 @@ pipelines:
              - git pull
              - git merge origin/main
              - git rm -f bitbucket-pipelines.yml
-             - git commit -m “不要なファイルの削除”
+             - git commit -m “不要なファイル類の削除”
              - git filter-branch -f --env-filter "GIT_AUTHOR_NAME='Takuma SUGAWARA'; GIT_AUTHOR_EMAIL='sugawara@miyabilink.jp'; GIT_COMMITTER_NAME='Takuma SUGAWARA'; GIT_COMMITTER_EMAIL='sugawara@miyabilink.jp';" --tag-name-filter cat -- --all
              - git push sync --tags
              - git push -f sync main
